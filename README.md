@@ -28,7 +28,7 @@ A hyperparameter search over LoRA rank and learning rate, with few-shot accuracy
 | Single-phase model | **61.43** | **59.01** | **71.50** | 83.91 | **52.78** | **65.73** |
 | Sequential-phase model | 60.33 | 58.40 | 70.00 | **83.99** | 50.00 | 64.54 |
 
-*MedMCQA is restricted onlly to the following subjects:  Gynaecology & Obstetrics, Surgery, Medicine, Pediatrics, Pharmacology, Radiology, Orthopaedics, and Skin.
+*MedMCQA is restricted only to the following subjects:  Gynaecology & Obstetrics, Surgery, Medicine, Pediatrics, Pharmacology, Radiology, Orthopaedics, and Skin.
 
 ## Setup
 
